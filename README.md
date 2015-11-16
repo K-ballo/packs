@@ -1,7 +1,7 @@
 **Efficient Packing**
 ==================
 
-Explores different ways of making an `index_sequence`.
+Explores different ways of making an `index_sequence`, from [True Story: Efficient Packing](http://talesofcpp.fusionfenix.com/post-22/true-story-efficient-packing "True Story: Efficient Packing - Tales of C++").
 
 ---
 
